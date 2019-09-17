@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Кредитный Калькулятор</string>
+    <string name="input_sum">Введите сумму</string>
+    <string name="due_date_title">Срок платежа</string>
+    <string name="first_sum_title">Сумма первого платежа</string>
+    <string name="percent">Процент</string>
+    <string name="input_month">Срок кредита(мес.) :</string>
+    <string name="input_first_pay">Первоначальный взнос (сом) :</string>
+    <string name="percent_title">Процентная ставка (%):</string>
+    <string name="calculate">Посчитать</string>
+    <string name="fill_all_fields">Заполните все поля !</string>
+    <string name="month_pay">Ежемесячная выплата :</string>
+    <string name="ok">Ок</string>
+</resources>
